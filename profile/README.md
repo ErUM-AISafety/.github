@@ -1,12 +1,9 @@
 ## Welcome to ErUM-AISafety 👋
 
-<!--
+- The first CMS Open Data (_here: 2015_) dataset containing detailed low-level information for jet flavour tagging, more than most recent versions of the official standard tools ☺️
+  - Dataset: https://www.kaggle.com/datasets/annikastein/jet-tagging-opendata-mockup
+  - Usage: https://www.kaggle.com/code/annikastein/jet-flavour-tagging-with-customized-cern-open-data
+  - Creation: https://github.com/ErUM-AISafety/OpenNano (first release: 04-2023, second release: 10-2023)
+  - Documentation: tba / dissertation.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+_A. Stein, 2023_
